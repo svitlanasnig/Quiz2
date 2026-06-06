@@ -1,0 +1,29 @@
+/* Cкопіюй код з минулого уроку */
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #ffffff;
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#quiz-screen{
+    
+}
+.hide{
+    display: none;
+}
+.show{
+    display: block;
+}
+.correct{
+    background-color: green;
+    
+}
+.wrong{
+    background-color: red;
+}
